@@ -1,2 +1,2 @@
-# auto-fort
-still learning bear with me
+# LAW CASES
+Web scraping law cases and storing into mongodb.
